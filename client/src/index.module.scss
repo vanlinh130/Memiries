@@ -1,0 +1,25 @@
+:root {
+    --color-white: #fff;
+    --color-black: black;
+    --color-red: #ff2351;
+    --color-green: #2e4cac;
+    --color-text: #6b6a6a;
+    --color-ccc: #ccc;
+    --color-secondary: #0d9a70;
+
+    --color-border: #ccc;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+   background-color: var(--color-white);
+}
